@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Dev-Draw (https://github.com/TorsteinTenstad/dev-draw) -->
+
+<svg
+    width="30mm"
+    height="30mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"> 
+<rect
+     style="opacity:1;fill:#ffffff;stroke-width:0.0"
+     width="30mm"
+     height="30mm"
+     x="0mm"
+     y="0mm"
+     rx="0mm"
+     ry="0mm" /> 
+<rect
+     style="opacity:1;fill:#969696;stroke-width:0.0"
+     width="28mm"
+     height="28mm"
+     x="1mm"
+     y="1mm"
+     rx="0mm"
+     ry="0mm" /> 
+<ellipse
+     style="opacity:1;fill:#880088;stroke-width:0.0"
+     rx="8mm"
+     ry="8mm"
+     cx="15mm"
+     cy="15mm"/> 
+<ellipse
+     style="opacity:1;fill:#008888;stroke-width:0.0"
+     rx="5mm"
+     ry="5mm"
+     cx="7mm"
+     cy="7mm"/> 
+<rect
+     style="opacity:1;fill:#AAAA00;stroke-width:0.0"
+     width="5mm"
+     height="5mm"
+     x="23mm"
+     y="23mm"
+     rx="1mm"
+     ry="1mm" />
+</svg>
