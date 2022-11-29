@@ -2,44 +2,41 @@
 <!-- Created with Dev-Draw (https://github.com/TorsteinTenstad/dev-draw) -->
 
 <svg
-    width="30mm"
-    height="30mm"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"> 
+    width="30"
+    height="30"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"> 
 <rect
-     style="opacity:1;fill:#ffffff;stroke-width:0.0"
-     width="30mm"
-     height="30mm"
-     x="0mm"
-     y="0mm"
-     rx="0mm"
-     ry="0mm" /> 
+    style="opacity:1;fill:#5F0F40;"
+    width="30"
+    height="30"
+    x="0"
+    y="0"
+    rx="0"
+    ry="0" /> 
 <rect
-     style="opacity:1;fill:#969696;stroke-width:0.0"
-     width="28mm"
-     height="28mm"
-     x="1mm"
-     y="1mm"
-     rx="0mm"
-     ry="0mm" /> 
+    style="opacity:1;fill:#E36414;"
+    width="18"
+    height="30"
+    x="0"
+    y="0"
+    rx="0"
+    ry="0" /> 
 <ellipse
-     style="opacity:1;fill:#880088;stroke-width:0.0"
-     rx="8mm"
-     ry="8mm"
-     cx="15mm"
-     cy="15mm"/> 
-<ellipse
-     style="opacity:1;fill:#008888;stroke-width:0.0"
-     rx="5mm"
-     ry="5mm"
-     cx="7mm"
-     cy="7mm"/> 
+    style="opacity:1;fill:#0F4C5C;"
+    rx="6"
+    ry="6"
+    cx="15"
+    cy="15"/> 
 <rect
-     style="opacity:1;fill:#AAAA00;stroke-width:0.0"
-     width="5mm"
-     height="5mm"
-     x="23mm"
-     y="23mm"
-     rx="1mm"
-     ry="1mm" />
+    style="opacity:1;fill:#5F0F40;"
+    width="10"
+    height="5"
+    x="1"
+    y="1"
+    rx="1"
+    ry="1" />
+<polygon
+    style="opacity:1;fill:#5F0F40;"
+    points="1,20 1,29 10,29" />
 </svg>
