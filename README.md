@@ -4,7 +4,7 @@ By providing the path to an inkskape installation, these can be exported to png 
 
 ### Example code:
 
-https://github.com/TorsteinTenstad/dev-draw/blob/4687233174a6fd1f783f82a67014a85d56b361c6/example.py#L9-L17
+https://github.com/TorsteinTenstad/dev-draw/blob/0c58ba27bcb0453c9b14e2a547daae2608a438dc/example.py#L8-L20
 
 ### Example output
 ![Alt text](example_export.png?raw=true "example_export.png")
